@@ -1,0 +1,187 @@
+body{
+    background-color: #C2CAD0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+nav{
+    background-color: #E7717D;
+    height: 3em;
+    padding: 0;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+  }
+  
+li{
+      float: right;
+      padding: 1em;
+    }
+    
+.icons img{
+    border-radius: 50%;
+    float: left;
+    height: 2.5em;
+    width: 2.5em;
+    padding: .25em;
+}
+
+#navTitle{
+    padding: .5em;
+    margin: 0;
+    float: left;
+}
+
+h1{
+    text-align: center; 
+    padding: 1em 0 0 0;
+  }
+
+h2{
+    text-align: center;
+}
+
+p{
+    margin: auto;
+    padding: 3.5em 2em;
+    font-size: 80%;
+    
+}
+
+#main{
+    display: inline-block;
+    justify-content: center;
+
+}
+.box1{
+    width: 15%;
+    height: 28em;
+    margin: 2em 2em 2em 10em;
+    float: left;
+    padding: auto;
+    border: black solid 1px;
+    background-color: white;
+}
+
+.box2{
+    width: 15%;
+    height: 28em;
+    margin: 2em;
+    float: left;
+    padding: auto;
+    border: black solid 1px;
+    background-color: white;
+}
+.box3{
+    width: 15%;
+    height: 28em;
+    margin: 2em;
+    float: left;
+    padding: auto;
+    border: black solid 1px;
+    background-color: white;
+}
+.box4{
+    width: 15%;
+    height: 28em;
+    margin: 2em;
+    float: left;
+    padding: auto;
+    border: black solid 1px;
+    background-color: white;
+}
+
+.box5{
+    width: 15%;
+    height: 28em;
+    margin: 2em;
+    float: left;
+    padding: auto;
+    border: black solid 1px;
+    background-color: white;
+}
+
+footer{
+    background-color: #AFD275;
+    height: 3em;
+    padding: .5em;
+}
+
+.box1 p{
+    background-color: #AFD275;
+}
+
+.box1 img{
+    margin: auto;
+    padding: auto;
+    max-width: 40%;
+    display: block;
+    margin-bottom: .5em;
+}
+
+.box2 p{
+    background-color: #C2B9B0;
+}
+
+.box2 img{
+    margin: auto;
+    padding: auto;
+    max-width: 40%;
+    display: block;
+}
+
+.box3 p{
+    background-color: #E7717D;
+}
+
+.box3 img{
+    margin: auto;
+    padding: auto;
+    max-width: 20%;
+    display: block;
+    margin-bottom: 2.25em;
+}
+
+.box4 p{
+    background-color: #C2B9B0;
+   
+}
+
+.box4 img{
+    margin: auto;
+    padding: auto;
+    max-width: 30%;
+    display: block;
+    margin-bottom: 1em;
+}
+
+
+.box5 p{
+    background-color: #AFD275;
+    
+}
+
+.box5 img{
+    margin: auto;
+    padding: auto;
+    max-width: 30%;
+    display: block;
+    margin-bottom: 1em;
+}
+
+button{
+    margin: 1em;
+    padding: .5em;
+    width: 25%;
+}    
+
+#wrapper{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
